@@ -16,6 +16,8 @@ Gets the Current Time The code gets the current time (like 4:05) and puts it int
 Handles Form Submission When someone fills out the contact form and clicks submit: It stops the page from refreshing (default browser behavior). It sends the form data (like name, email, message) using EmailJS.
 Sends the Email to Me (stephensemense@gmail.com) EmailJS takes the form data and uses your chosen template (template_ukf8pdo) and service (service_0gyk09r) to send an email to your email address, which you set up in EmailJS.
 Shows a Message to the User If the email is sent successfully it show this alert. alert("Message sent successfully!") appears and the form clears. If it fails it show this alert. alert("Failed to send message. Please try again.") appears.
+
+
 PROJECTS:
 
 Watch
